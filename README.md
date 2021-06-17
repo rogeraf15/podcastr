@@ -61,7 +61,7 @@ $ yarn server
 # Run the project
 $ yarn dev
 
-# The server will initialize in the <http://localhost:8080>
+# The server will initialize in the <http://localhost:3000>
 ```
 
 ## :computer: Technologies
